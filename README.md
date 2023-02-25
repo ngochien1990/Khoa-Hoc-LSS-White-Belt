@@ -1,4 +1,4 @@
-#Ứng dụng Lean Six Sigma trong cải tiến sản xuất và dịch vụ (Cấp độ đai trắng - White Belt)
+# Ứng dụng Lean Six Sigma trong cải tiến sản xuất và dịch vụ (Cấp độ đai trắng - White Belt)
 
 ## Giới thiệu khóa học
 Lean Six Sigma (LSS) là một trong những phương pháp luận phổ biến nhất về cách thức triển khai và duy trì cải tiến hiệu quả vận hành trong quy trình của các doanh nghiệp sản xuất và dịch vụ. Đối với doanh nghiệp, công ty có thể tiết kiệm chi phí vận hành hàng triệu đô mỗi năm thông qua các dự án cải tiến LSS. Những công ty sản xuất hàng đầu đã và đang triển khai và phát triển đội ngũ chuyên nghiệp về LSS như Toyota, Nike, Adidas, On Semiconductor và vân vân. Đối với chuyên gia, kỹ sư nói riêng và người lao động nói chung, cơ hội nghề nghiệp và mức lương trung bình ngành về LSS là rất hấp dẫn, với hàng triệu hồ sơ chuyên gia và thông tin việc làm về LSS trên các nền tảng tuyển dụng (ví dụ như LinkedIn).
