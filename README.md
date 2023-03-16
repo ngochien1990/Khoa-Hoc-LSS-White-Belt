@@ -10,3 +10,4 @@ Sức hấp dẫn của LSS luôn được duy trì theo thời gian. Trong đó
 Nhanh tay đăng ký khoá học để nhận ưu đãi từ Unica nhé!
 
 Đăng ký: https://unica.vn/ung-dung-lean-six-sigma-trong-cai-tien-san-xuat-va-dich-vu-cap-do-dai-trang-white-belt?aff=651035
+Đăng ký: https://gitiho.com/khoa-hoc/ung-dung-lean-six-sigma-trong-cai-tien-san-xuat-va-dich-vu-cap-do-dai-trang-white-belt?utm_source=teacher&referralCode=TEACHER_REF_784
